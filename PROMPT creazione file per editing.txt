@@ -5,23 +5,20 @@ Ho già worldbuilding completo da campagna GDR. Serve creare file base per lavor
 ---
 
 LINK MATERIALI ESISTENTI:
-https://1drv.ms/f/c/84de83d8f0987f1e/IgCoDfnNgD6tSKxEa017zlDsARsh1UbpGyG5sugcNu7ZclA?e=OTCQpx
+https://github.com/alessandrogianesiniprivato-hub/Elarisax
 
-Nella cartella principale "Elarisax":
-- ELARISAX - Compendio.docx (worldbuilding completo)
-- ELARISAX - Campagna.docx
-- ELARISAX - Bestiario.docx
-- ELARISAX - Avventure.docx
-
-Nella sottocartella "SAGA":
-- File narrativa (da popolare)
-- Fasi dell'Editing.docx (con suggerimenti delle fasi operative)
-- STRUTTURA CONSIGLIATA.docx (con primo abbozzo dell'opera da creare)
+- ELARISAX - Compendio.docx (si tratta del cuore del progetto, con la lore, l'ambientazione e le meccaniche di base, oltre alle note integrative per il solo DM (per D&D 5e)
+- ELARISAX - Guida per i PG.docx (versione alleggerita per i giocatori)
+- ELARISAX - Campagna.docx (la struttura di base della narrazione)
+- ELARISAX - Bestiario.docx (una carrellata di creature e PNG che fanno parte dell'ambientazione e le loro possibili iterazioni con ambiente e personaggi)
+- ELARISAX - Avventure.docx (una lista di brevi opzioni narrative per il GdR e integrabili nel progetto narrativo)
+- Fasi dell'Editing.docx (la struttura con cui si intende operare una volta iniziato il lavoro)
+- STRUTTURA CONSIGLIATA.docx (la prima bozza del progetto di saga narrativa basata su "Compendio" e "Campagna")
 
 ---
 
 OBIETTIVO SESSIONE:
-Creare 4 file base in formato Markdown (artifact) che salverò in cartella SAGA:
+Creare 4 file base in formato Markdown (artifact) che salverò nell'HUB:
 
 1. **NUCLEO.md** (CORE)
    - Premise romanzo (3 paragrafi)
