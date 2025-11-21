@@ -7,13 +7,13 @@ Ho già worldbuilding completo da campagna GDR. Serve creare file base per lavor
 LINK MATERIALI ESISTENTI:
 https://github.com/alessandrogianesiniprivato-hub/Elarisax
 
-- ELARISAX - Compendio.docx (si tratta del cuore del progetto, con la lore, l'ambientazione e le meccaniche di base, oltre alle note integrative per il solo DM (per D&D 5e)
-- ELARISAX - Guida per i PG.docx (versione alleggerita per i giocatori)
-- ELARISAX - Campagna.docx (la struttura di base della narrazione)
-- ELARISAX - Bestiario.docx (una carrellata di creature e PNG che fanno parte dell'ambientazione e le loro possibili iterazioni con ambiente e personaggi)
-- ELARISAX - Avventure.docx (una lista di brevi opzioni narrative per il GdR e integrabili nel progetto narrativo)
-- Fasi dell'Editing.docx (la struttura con cui si intende operare una volta iniziato il lavoro)
-- STRUTTURA CONSIGLIATA.docx (la prima bozza del progetto di saga narrativa basata su "Compendio" e "Campagna")
+- ELARISAX - Compendio.md (si tratta del cuore del progetto, con la lore, l'ambientazione e le meccaniche di base, oltre alle note integrative per il solo DM (per D&D 5e)
+- ELARISAX - Guida per i PG.md (versione alleggerita per i giocatori)
+- ELARISAX - Campagna.md (la struttura di base della narrazione)
+- ELARISAX - Bestiario.md (una carrellata di creature e PNG che fanno parte dell'ambientazione e le loro possibili iterazioni con ambiente e personaggi)
+- ELARISAX - Avventure.md (una lista di brevi opzioni narrative per il GdR e integrabili nel progetto narrativo)
+- Fasi dell'Editing.md (la struttura con cui si intende operare una volta iniziato il lavoro)
+- STRUTTURA CONSIGLIATA.md (la prima bozza del progetto di saga narrativa basata su "Compendio" e "Campagna")
 
 ---
 
@@ -68,8 +68,8 @@ NOTE IMPORTANTI:
 ---
 
 DOMANDE PER TE:
-1. Serve davvero MONDO.md separato o meglio referenziare Compendio.docx quando necessario? (c'è un blocco OneNote già attivo per me)
-2. Altri file base che suggerisci per workflow efficiente?
-3. Formato Markdown va bene o preferisci altro?
+1. Serve davvero MONDO.md separato o basta il Compendio quando necessario? (c'è un blocco OneNote già attivo per me)
+2. Altri file base che suggerisci per workflow efficiente? Con questa condivisione, mi pare tutto molto lineare e ci penso io a trasformare da MD a docx e viceversa, quando necessario.
+3. Formato Markdown va bene anche per fasi successive di editing, o meglio passare a docx puro?
 
 Parti con lettura Compendio e dimmi cosa ne pensi!
