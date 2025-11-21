@@ -1,0 +1,78 @@
+Ciao! Inizio progetto romanzo fantasy "ELARISAX" (trilogia).
+
+Ho già worldbuilding completo da campagna GDR. Serve creare file base per lavorare insieme su scrittura romanzo.
+
+---
+
+LINK MATERIALI ESISTENTI:
+https://1drv.ms/f/c/84de83d8f0987f1e/IgCoDfnNgD6tSKxEa017zlDsARsh1UbpGyG5sugcNu7ZclA?e=OTCQpx
+
+Nella cartella principale "Elarisax":
+- ELARISAX - Compendio.docx (worldbuilding completo)
+- ELARISAX - Campagna.docx
+- ELARISAX - Bestiario.docx
+- ELARISAX - Avventure.docx
+
+Nella sottocartella "SAGA":
+- File narrativa (da popolare)
+- Fasi dell'Editing.docx (con suggerimenti delle fasi operative)
+- STRUTTURA CONSIGLIATA.docx (con primo abbozzo dell'opera da creare)
+
+---
+
+OBIETTIVO SESSIONE:
+Creare 4 file base in formato Markdown (artifact) che salverò in cartella SAGA:
+
+1. **NUCLEO.md** (CORE)
+   - Premise romanzo (3 paragrafi)
+   - 4 protagonisti principali (nome, età, lignaggio, arco, voce narrativa)
+   - Trama Libro 1 in 10-15 punti chiave
+   - Tono/stile narrativo
+   - Lunghezza: 2.500-3.000 parole
+
+2. **PERSONAGGI.md** (CHARACTERS)
+   - Profili dettagliati 4 protagonisti
+   - PNG secondari chiave (Lina, Dalmoro, Custode, Veydran, altri)
+   - Relazioni tra personaggi
+   - Lunghezza: 2.500-3.000 parole
+
+3. **STATO.md** (STATUS)
+   - Dove siamo nella storia (inizio: pre-drafting)
+   - Capitoli completati: 0
+   - Wordcount: 0
+   - Decisioni prese
+   - Issue aperti
+   - Lunghezza: 500-800 parole (si aggiornerà continuamente)
+
+4. **MONDO.md** (WORLD) - VALUTA SE NECESSARIO
+   - Considerando che worldbuilding completo è in Compendio.docx
+   - Serve versione distillata "romanzo-only"?
+   - Oppure referenziamo Compendio quando serve?
+   - Se necessario: Geografia essenziale, Sistema magico narrativo, Culture
+   - Lunghezza: 3.000-4.000 parole
+
+---
+
+PROCESSO:
+1. Leggi Compendio.docx (focus su: cosmologia, Tre Vie, Lignaggi, personaggi chiave, geografia Rocca d'Aglio/Vellorina/Selva)
+2. Valuta se serve MONDO.md separato o basta referenziare Compendio
+3. Crea file in formato Markdown (artifact)
+4. Io copierò contenuto e salverò come file .md in cartella SAGA
+
+---
+
+NOTE IMPORTANTI:
+- Worldbuilding già completo in Compendio (30.000+ parole)
+- Focus: estrarre solo info rilevanti per ROMANZO (no meccaniche GDR)
+- Stile narrativo: literary fantasy, POV multiplo (4 protagonisti), prosa lirica ma accessibile
+- Pubblico target: adult fantasy (18-40 anni)
+- Trilogia pianificata, più prequel (da valutare se come prima uscita o successiva)
+
+---
+
+DOMANDE PER TE:
+1. Serve davvero MONDO.md separato o meglio referenziare Compendio.docx quando necessario? (c'è un blocco OneNote già attivo per me)
+2. Altri file base che suggerisci per workflow efficiente?
+3. Formato Markdown va bene o preferisci altro?
+
+Parti con lettura Compendio e dimmi cosa ne pensi!
